@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0238-product-of-array-except-self](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
