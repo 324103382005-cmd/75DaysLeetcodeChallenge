@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
