@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0020-valid-parentheses](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
