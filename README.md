@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0002-add-two-numbers](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0009-palindrome-number) |
 ## Linked List
 |  |
 | ------- |
