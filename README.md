@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0013-roman-to-integer](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0013-roman-to-integer](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0002-add-two-numbers](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
