@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0013-roman-to-integer](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0005-longest-palindromic-substring](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0027-remove-element](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0005-longest-palindromic-substring](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0005-longest-palindromic-substring](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
