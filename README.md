@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0004-median-of-two-sorted-arrays](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
+| [0014-longest-common-prefix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
