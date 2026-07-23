@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
 | [0014-longest-common-prefix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
+| [0016-3sum-closest](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0016-3sum-closest](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0005-longest-palindromic-substring](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
