@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0016-3sum-closest](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0016-3sum-closest) |
+| [0051-n-queens](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,4 +153,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
