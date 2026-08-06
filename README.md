@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0051-n-queens) |
 | [0031-next-permutation](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0016-3sum-closest](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
