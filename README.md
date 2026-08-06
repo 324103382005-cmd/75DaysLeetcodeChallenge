@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0051-n-queens) |
 | [0031-next-permutation](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0053-maximum-subarray](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0005-longest-palindromic-substring](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 ## String Matching
 |  |
 | ------- |
