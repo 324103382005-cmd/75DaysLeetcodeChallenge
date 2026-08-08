@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0053-maximum-subarray](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
+| [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0004-median-of-two-sorted-arrays](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -176,4 +179,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
