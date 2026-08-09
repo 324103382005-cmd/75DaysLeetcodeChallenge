@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0088-merge-sorted-array](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0074-search-a-2d-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
