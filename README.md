@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0053-maximum-subarray](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0088-merge-sorted-array](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0016-3sum-closest](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0088-merge-sorted-array](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
