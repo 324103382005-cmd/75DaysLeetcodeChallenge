@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 | [0018-4sum](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0054-spiral-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
