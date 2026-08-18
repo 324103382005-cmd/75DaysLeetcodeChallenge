@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 | [0018-4sum](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0058-length-of-last-word) |
 | [0012-integer-to-roman](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0068-text-justification](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0068-text-justification) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -255,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
