@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0084-largest-rectangle-in-histogram](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Design
 |  |
 | ------- |
@@ -258,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0068-text-justification) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
