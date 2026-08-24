@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0055-jump-game](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Leela-000/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0062-unique-paths) |
+| [0055-jump-game](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 ## Sliding Window
 |  |
 | ------- |
