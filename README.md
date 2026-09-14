@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0074-search-a-2d-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0493-reverse-pairs](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
+| [0069-sqrtx](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
