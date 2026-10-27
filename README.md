@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0068-text-justification](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0068-text-justification) |
+| [0067-add-binary](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0069-sqrtx) |
+| [0067-add-binary](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0067-add-binary](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0068-text-justification) |
 | [0059-spiral-matrix-ii](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 ## Monotonic Stack
 |  |
 | ------- |
