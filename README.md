@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0018-4sum) |
 | [0876-middle-of-the-linked-list](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/324103382005-cmd/75DaysLeetcodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
